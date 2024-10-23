@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sherterma.github.io/sherterma.sherterma
+Sitemap: https://sherterma.github.io/app/sherterma.sherterma
+Sitemap: https://sherterma.github.io/assets/sherterma.sherterma
+Sitemap: https://sherterma.github.io/css/sherterma.sherterma
+Sitemap: https://sherterma.github.io/includes/sherterma.sherterma
+Sitemap: https://sherterma.github.io/item/sherterma.sherterma
+Sitemap: https://sherterma.github.io/src/sherterma.sherterma
